@@ -1,0 +1,14 @@
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\лабы\лаб.раб. 2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\Институт\Основы программирования\Reports\ЛР02\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
